@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwamvani
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning Information Technology 
+- 👀 I’m a full stack developer
+- 🌱 I have developed diffent websites, web applications and mobile application 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 
